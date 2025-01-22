@@ -21,7 +21,10 @@
 +------------------------------------------------------------------------------+
 
 this domain is intended to be used for services such as backup, sync, and docs.
-to any network operator, please for the love of god do not block this domain :(
+it's also used for getting files from a to b, to avoid google and others.
+
+if you see significant traffic here, feel free to drop an email at k3t@k3t.xyz
+and ask what's going on, but please don't block this domain.
 
 changelog ----------------------------------------------------------------------
 
